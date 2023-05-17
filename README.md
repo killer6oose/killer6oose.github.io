@@ -8,7 +8,7 @@ If you would like, you may download my resume by clicking on the following link 
 ---
 # Andrew Hatton
 
-Consultant, Programmer, Developer
+Consultant, Programmer, Developer, Full Stack Developer, LAMP Developer
 
 📧 andrew@thehattons.co | 📞 +1 502-235-6748
 🌐 Website: [https://cronotech.us](https://cronotech.us)
