@@ -40,12 +40,13 @@ ITT Technical Institute at Louisville, KY | 2015 - 2016
 ### Professional Services Consultant
 Ivanti | July 2022 - Present
 
-As an Ivanti Service Manager Consultant, I have extensive experience in implementing and configuring Ivanti Service Manager for clients. I am adept at analyzing client requirements, designing solutions, and leading the implementation of Ivanti Service Manager, as well as providing ongoing support and maintenance. My key focus is on helping clients optimize their IT service delivery processes, increase efficiency, and improve customer satisfaction. I bring to the table strong technical skills, excellent communication and problem-solving abilities, and a deep understanding of IT service management best practices.
+As an Ivanti Service Manager Consultant, I have extensive experience in implementing and configuring Ivanti Service Manager for clients. I am adept at analyzing client requirements, designing solutions, and leading the implementation of Ivanti Service Manager, as well as providing ongoing support and maintenance. My key focus is on helping clients optimize their IT service delivery processes, increase efficiency, and improve customer satisfaction. I bring to the table strong technical skills, excellent communication and problem-solving abilities, and a deep understanding of IT service management best practices. I am currently an advanced/expert level Ivanti Service Manager consultant, and my focus group is on GRC for ITSM.
 
-### Small Business Owner
+### Business Owner
 CronoTech Consulting, Louisville, Kentucky Area | February 2017 - Present
 
 As the owner of CronoTech Consulting, I have led all aspects of the business, from developing and implementing marketing strategies to managing the development and supporting my hosted clients. I have extensive experience in designing and hosting websites, as well as in providing high-performance game hosting solutions. Additionally, I have built and maintained strong client relationships, ensuring high levels of customer satisfaction and retention. Through my leadership and technical expertise, I have successfully grown CronoTech Consulting into a respected and profitable business in the web and gaming industry for small-time clients.
+Creating and implementing API endpoints for customers to utilize for controlling their servers (rebooting, initiating password resets, refreshing scripts, etc)
 
 ### Senior Application Support Analyst
 Baptist Health System KY & IN | March 2021 - July 2022
