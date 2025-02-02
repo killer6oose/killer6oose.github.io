@@ -3,7 +3,7 @@ Welcome to my resume repository! This repository serves as a central location fo
 
 ## Resume File
 If you would like, you may download my resume by clicking on the following link and then "download":
-- [Resume.pdf](Andrew-Hatton_Resume.docx)
+- [Resume.pdf](AndrewHatton-Resume.docx)
 
 ---
 # Andrew Hatton
